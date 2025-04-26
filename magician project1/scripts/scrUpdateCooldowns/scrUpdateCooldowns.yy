@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scrUpdateCooldowns",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrUpdateCooldowns",
+  "parent":{
+    "name":"player",
+    "path":"folders/Scripts/player.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

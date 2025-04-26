@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scrGetNearbyObject_question",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrGetNearbyObject_question",
+  "parent":{
+    "name":"player",
+    "path":"folders/Scripts/player.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scrGamereset",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrGamereset",
+  "parent":{
+    "name":"system",
+    "path":"folders/Scripts/system.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
